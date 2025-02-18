@@ -283,7 +283,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="323"></int>
+                  <int value="337"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -297,7 +297,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="15_137_2.14"></unicode>
+                <unicode value="15_137_2.16"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -308,7 +308,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="data-protection_4413789.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\data-protection_4413789.png"></string>
+                  <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\data-protection_4413789.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="f6447bd4359044820231917b9b7d8cfc"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -335,7 +335,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="331"></int>
+                  <int value="342"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -349,7 +349,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="15_137_2.15"></unicode>
+                <unicode value="15_137_2.17"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="6">
                  <dictionary>
@@ -360,7 +360,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Por-que-es-importante-proteger-los-datos-personales.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\Por-que-es-importante-proteger-los-datos-personales.jpg"></string>
+                  <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\Por-que-es-importante-proteger-los-datos-personales.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5cfcf31410f450e5c68223d4fb2e6176"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -389,7 +389,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="16"></int>
+           <int value="18"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -562,7 +562,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="332"></int>
+                     <int value="343"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -576,7 +576,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="5_127_2.10"></unicode>
+                   <unicode value="5_127_2.11"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="10">
                     <dictionary>
@@ -587,7 +587,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="proteccio-dades.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\proteccio-dades.PNG"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\proteccio-dades.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="49849d9a4fb51cc95420e44382f3b1c3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -616,7 +616,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="11"></int>
+              <int value="12"></int>
               <string role="key" value="parentNode"></string>
               <reference key="9"></reference>
              </dictionary>
@@ -833,7 +833,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="330"></int>
+                     <int value="341"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -847,7 +847,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="14_136_2.3"></unicode>
+                   <unicode value="14_136_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -858,7 +858,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="gdpr-concept.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\gdpr-concept.png"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\gdpr-concept.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b7e63c79bbd1de7cd986961c624f7ad1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -887,7 +887,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="5"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -1349,7 +1349,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="321"></int>
+                     <int value="336"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1363,7 +1363,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="21_137_2.2"></unicode>
+                   <unicode value="21_137_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
@@ -1374,7 +1374,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="carpeta-secreta-con-papeles-y-fotos.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\carpeta-secreta-con-papeles-y-fotos.jpg"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\carpeta-secreta-con-papeles-y-fotos.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="486753834f5c195a495f73660b01ab07"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1401,7 +1401,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="329"></int>
+                     <int value="340"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1415,7 +1415,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="21_137_2.3"></unicode>
+                   <unicode value="21_137_2.5"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
@@ -1426,7 +1426,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="drets-interessats-lopdgdd.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\drets-interessats-lopdgdd.png"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\drets-interessats-lopdgdd.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0ab2fb405750dd69cae7bfcdfaea43fc"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1455,7 +1455,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="6"></int>
               <string role="key" value="parentNode"></string>
               <reference key="20"></reference>
              </dictionary>
@@ -1660,7 +1660,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="328"></int>
+                     <int value="339"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1674,7 +1674,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="23_139_2.1"></unicode>
+                   <unicode value="23_139_2.2"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="26">
                     <dictionary>
@@ -1685,7 +1685,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="drets-addicionals-lopdgdd.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\drets-addicionals-lopdgdd.PNG"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\drets-addicionals-lopdgdd.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9dce162111f14bba7c6f5b2aada7246d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1714,7 +1714,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="2"></int>
+              <int value="3"></int>
               <string role="key" value="parentNode"></string>
               <reference key="25"></reference>
              </dictionary>
@@ -1907,7 +1907,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="319"></int>
+                     <int value="334"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1921,7 +1921,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="22_138_2.2"></unicode>
+                   <unicode value="22_138_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="30">
                     <dictionary>
@@ -1932,7 +1932,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="adecuacion-lssi-ce.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\adecuacion-lssi-ce.png"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\adecuacion-lssi-ce.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="12946b5e36feade2423c1136bff43ec8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1959,7 +1959,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="333"></int>
+                     <int value="344"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1973,7 +1973,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="22_138_2.3"></unicode>
+                   <unicode value="22_138_2.5"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="31">
                     <dictionary>
@@ -1984,7 +1984,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Que-es-la-LSSI-y-ventajas-de-cumplirla.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\Que-es-la-LSSI-y-ventajas-de-cumplirla.png"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\Que-es-la-LSSI-y-ventajas-de-cumplirla.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e648fb967f3d65afe87543d4fc9e9de3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2013,7 +2013,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="6"></int>
               <string role="key" value="parentNode"></string>
               <reference key="29"></reference>
              </dictionary>
@@ -2193,7 +2193,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="320"></int>
+                     <int value="335"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2207,7 +2207,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="24_140_2.1"></unicode>
+                   <unicode value="24_140_2.2"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
@@ -2218,7 +2218,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="bones-practiques-empresarials-proteccio-dades.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\bones-practiques-empresarials-proteccio-dades.PNG"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\bones-practiques-empresarials-proteccio-dades.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e3ae8d5a172d52a87fa37ef39a9f6bca"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2247,7 +2247,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="2"></int>
+              <int value="3"></int>
               <string role="key" value="parentNode"></string>
               <reference key="34"></reference>
              </dictionary>
@@ -2431,7 +2431,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="324"></int>
+                     <int value="338"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2445,7 +2445,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="25_141_2.3"></unicode>
+                   <unicode value="25_141_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="39">
                     <dictionary>
@@ -2456,7 +2456,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Data_security_and_protection_in_both_professional_and_personal_contexts.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcee7kx\\Data_security_and_protection_in_both_professional_and_personal_contexts.png"></string>
+                     <string value="c:\\users\\ahilo\\appdata\\local\\temp\\tmpcc9e25\\Data_security_and_protection_in_both_professional_and_personal_contexts.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9fa5f2a530d813402ddaa08a8c08edcf"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2485,7 +2485,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="5"></int>
               <string role="key" value="parentNode"></string>
               <reference key="38"></reference>
              </dictionary>
